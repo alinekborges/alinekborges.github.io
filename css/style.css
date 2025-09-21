@@ -173,6 +173,17 @@ footer {
     font-size:var(--scale-0);
 }
 
+footer a {
+	color: #ffffff !important;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+footer a:hover {
+	color: #f0f0f0 !important;
+	text-decoration: underline;
+}
+
 /* Responsive adjustments */
 @media (max-width:34.375rem) {              /* 550px */
   h1 {
