@@ -1,0 +1,70 @@
+[{
+    "name": "Sydney", 
+    "country": "Australia", 
+    "lat": -33.865143, 
+    "long": 151.2099,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,13,-33.865,151.20944444444,250x250@2x.png?lang=pt&domain=pt.wikipedia.org&title=Sydney&revid=65107806&groups=_e8b62f7ac652bf1c298ca1c1d502bad2a43ec03d"
+}, 
+{
+    "name": "Melbourne", 
+    "country": "Australia", 
+    "lat": -37.815018, 
+    "long": 144.946014,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,12,-37.813611111111,144.96305555556,250x250@2x.png?lang=pt&domain=pt.wikipedia.org&title=Melbourne&revid=64913375&groups=_76ba7b7a91a5b71992063879ff0684d09a5630cd"
+}, 
+{
+    "name": "Brisbane", 
+    "country": "Australia", 
+    "lat": -27.470125, 
+    "long": 153.021072,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,12,-27.467777777778,153.02777777778,250x250@2x.png?lang=pt&domain=pt.wikipedia.org&title=Brisbane&revid=64913197&groups=_c605793d20d7d0cab34e7f611d7eea7243055598"
+}, 
+{
+    "name": "Adelaide", 
+    "country": "Australia", 
+    "lat": -34.92866, 
+    "long": 138.59863,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,8,-34.929,138.601,250x250@2x.png?lang=pt&domain=pt.wikipedia.org&title=Adelaide+%28Austr%C3%A1lia%29&revid=64913297&groups=_8a45d465d9c49267b50f434785f00ba974060d35"
+}, 
+{
+    "name": "Perth", 
+    "country": "Australia", 
+    "lat": -31.95224, 
+    "long": 115.8614,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,12,-31.952222222222,115.85888888889,250x250@2x.png?lang=pt&domain=pt.wikipedia.org&title=Perth+%28Austr%C3%A1lia+Ocidental%29&revid=65357008&groups=_60cb89434a94e90a4a6e06e6e99044d8b5ed7863"
+}, 
+{
+    "name": "Darwin", 
+    "country": "Australia", 
+    "lat": -12.46113, 
+    "long": 130.84185,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,10,-12.45,130.83333333333,250x250@2x.png?lang=pt&domain=pt.wikipedia.org&title=Darwin+%28Austr%C3%A1lia%29&revid=64963310&groups=_183a823e33114c2f559a9e6e22d078b9f13d1b48"
+}, 
+{
+    "name": "New York", 
+    "country": "United States", 
+    "lat": 40.71427, 
+    "long": -74.00597,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,12,40.6974881,-73.979681,250x250@2x.png?lang=pt"
+}, 
+{
+    "name": "Seattle", 
+    "country": "United States", 
+    "lat": 47.60621, 
+    "long": -122.33207,
+    "photoURL": "47.6131746,-122.4821468"
+}, 
+{
+    "name": "London", 
+    "country": "England", 
+    "lat": 51.51279, 
+    "long": -0.09184,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,12,51.5098188,-0.1404676,250x250@2x.png?lang=pt"
+}, 
+{
+    "name": "Amsterdam", 
+    "country": "Netherlands", 
+    "lat": 52.37403, 
+    "long": 4.88969,
+    "photoURL": "https://maps.wikimedia.org/img/osm-intl,12,52.3673826,4.8853655,250x250@2x.png?lang=pt"
+}]
