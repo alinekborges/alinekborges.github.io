@@ -638,3 +638,10 @@
     --button-background: #ffffff;
     --button-border: 1px solid #000000;
 }
+
+/* Mercado Livre */
+.button-mercadolivre {
+    --button-text: #000000;
+    --button-background: #FFE600;
+    --button-border: 1px solid #000000;
+}
